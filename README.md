@@ -1,9 +1,13 @@
 # Laporan Analisis dan Prediksi Kualitas Anggur (Wine Quality)
 
 **Mata Kuliah:** Data Mining  
+
 **Program Studi:** D3 Statistika Terapan dan Komputasi, Universitas Negeri Semarang (UNNES)  
+
 **Dosen Pengampu:** Nur Achmey Selgi Harwanti, M.Stat  
+
 **Penyusun:** Abelia Damayanti  
+
 **NIM:** 2404010022  
 
 ---
